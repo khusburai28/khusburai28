@@ -6,15 +6,15 @@ I'm a `MERN Stack Developer` & `AI-ML Developer` who loves to solve problems and
 
 * Ex-SDE Intern at `Jio`, `DRDO`
 * B.Tech in Computer Science and Engineering with specialization in `AI-ML` from `Guru Gobind Singh Indraprastha University`, New Delhi
-* 🏆 `3x Global Hackathon Winner`: [Certificates](https://github.com/khusburai28/Achievements)
+* 🏆 `3x Global Hackathon Winner`
   * UST Global India 2024: `National Winner, Rank #1` (7 Lakh Prize)
   * GSMA Open Gateway 2025: `Winner, Rank #2` (3 Lakh Prize)
   * Geek Room x MasterCard AI Garage Hackathon: `Winner`
 * 🏅 `Microsoft Learn Student Ambassador`
 * 🏅 `Amazon ML Summer School 2025`
-* 👨🏽‍💻 `4 Star` on [CodeChef](https://www.codechef.com/users/khusburai28) (1869+ rating)
+* 👨🏽‍💻 `4 Star` on CodeChef (1869+ rating)
 * 👨🏽‍💻 `Knight` at LeetCode, `Top 2%` (2010+ rating)
-* 👨🏽‍💻 `Rank 10` on [GeeksforGeeks](https://www.geeksforgeeks.org/user/khusburai28/) for Problem Solving
+* 👨🏽‍💻 `Institute Rank 11` on GeeksforGeeks for Problem Solving
 * 👨🏽‍💻 Active on Codeforces, CodeChef, GFG, and InterviewBit
 * 👨🏽‍💻 `17K+ followers` on [LinkedIn](https://www.linkedin.com/in/khusbu-rai-37bb5a256/)
 
@@ -45,10 +45,6 @@ I'm a `MERN Stack Developer` & `AI-ML Developer` who loves to solve problems and
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/khusbu-rai-37bb5a256/)
-[<img src="https://img.shields.io/badge/leetcode-%23a8a832.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/khusburai28/)
-[<img src="https://img.shields.io/badge/geeksforgeeks-%232c9c10.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://www.geeksforgeeks.org/user/khusburai28/)
-[<img src="https://img.shields.io/badge/codechef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white" />](https://www.codechef.com/users/khusburai28)
-[<img src="https://img.shields.io/badge/codeforces-%231F8ACB.svg?&style=for-the-badge&logo=codeforces&logoColor=white" />](https://codeforces.com/profile/khusburai28)
 [![Visits Badge](https://komarev.com/ghpvc/?username=khusburai28&style=for-the-badge)](https://github.com/khusburai28)
 
 </p>
