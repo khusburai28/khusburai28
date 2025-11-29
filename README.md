@@ -5,12 +5,12 @@
 I'm a `MERN Stack Developer` & `AI-ML Developer` who loves to solve problems and build innovative solutions. 
 
 * Ex-SDE Intern at `Jio`, `DRDO`, `IBM`
-* B.Tech in Computer Science and Engineering with specialization in `AI-ML` from `Guru Gobind Singh Indraprastha University`, New Delhi
+* B.Tech in Computer Science and Engineering with specialization in `AI-ML` from `Guru Gobind Singh Indraprastha University`, New Delhi.
 * 🏆 `3x Global Hackathon Winner`
-  * UST Global India 2024: `National Winner, Rank #1` (7 Lakh Prize)
-  * GSMA Open Gateway 2025: `Winner, Rank #2` (3 Lakh Prize)
-  * MasterCard AI Garage Hackathon: `Winner`
-  * Google Cloud Hackathon Finalist 2025. (Top 15)
+  * UST Global India 2024: `National Winner, Rank #1` (7 Lakh Prize).
+  * GSMA Open Gateway 2025: `Winner, Rank #2` (3 Lakh Prize).
+  * MasterCard AI Garage Hackathon: `Winner`.
+  * Google Cloud Hackathon Finalist 2025. (Top 15).
 * 🏅 `Microsoft LSA`
 * 🏅 `ML Trainee at Amazon MLSS 2025`
 * 👨🏽‍💻 `4 Star` on CodeChef (1869+ rating).
