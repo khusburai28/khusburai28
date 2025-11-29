@@ -1,58 +1,78 @@
-# Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/giphy.webp" width="25px" height="25px" /> I'm Khusbu Rai! </h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Khusbu+Rai;Full+Stack+Developer;AI-ML+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
-</div>
+<p align="center"><img align="center" alt="Coding" width="400" src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/media/coding-gif.gif"></p>
 
-## About Me
+I'm a `MERN Stack Developer` & `AI-ML Developer` who loves to solve problems and build innovative solutions.
 
-* Ex-SDE Intern at Jio, DRDO
-* B.Tech in Computer Science and Engineering with specialization in AI-ML from Guru Gobind Singh Indraprastha University, New Delhi
-* MERN Stack and AI-ML Developer
-* Passionate software developer focused on problem-solving and continuous learning
+* Ex-SDE Intern at `Jio`, `DRDO`
+* B.Tech in Computer Science and Engineering with specialization in `AI-ML` from `Guru Gobind Singh Indraprastha University`, New Delhi
+* 🏆 `3x Global Hackathon Winner`: [Certificates](https://github.com/khusburai28/Achievements)
+  * UST Global India 2024: `National Winner, Rank #1` (7 Lakh Prize)
+  * GSMA Open Gateway 2025: `Winner, Rank #2` (3 Lakh Prize)
+  * Geek Room x MasterCard AI Garage Hackathon: `Winner`
+* 🏅 `Microsoft Learn Student Ambassador`
+* 🏅 `Amazon ML Summer School 2025`
+* 👨🏽‍💻 `4 Star` on [CodeChef](https://www.codechef.com/users/khusburai28) (1869+ rating)
+* 👨🏽‍💻 `Knight` at LeetCode, `Top 2%` (2010+ rating)
+* 👨🏽‍💻 `Rank 10` on [GeeksforGeeks](https://www.geeksforgeeks.org/user/khusburai28/) for Problem Solving
+* 👨🏽‍💻 Active on Codeforces, CodeChef, GFG, and InterviewBit
+* 👨🏽‍💻 `17K+ followers` on [LinkedIn](https://www.linkedin.com/in/khusbu-rai-37bb5a256/)
 
-## Competitive Programming Achievements
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-* 4 Star CodeChef (1869+ rating)
-* Knight at LeetCode, Top 2% (2010+ rating)
-* Rank 10 on GeeksforGeeks for Problem Solving
-* Active on Codeforces, CodeChef, GFG, and InterviewBit
+<details open>
+<summary><b>💻 Technical Skills</b></summary>
+<br>
 
-## Hackathon Achievements
+| Category        | Skills        |
+|-----------------|---------------|
+| Languages       | <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white"/> |
+| Frameworks| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> |
+| Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
+| AI & ML | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> |
+| Version Control | <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <a href="https://github.com/khusburai28"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> |
+| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/JupyterNotebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> |
 
-* UST Global India 2024: National Winner, Rank #1 (7 Lakh Prize)
-* GSMA Open Gateway 2025: Winner, Rank #2 (3 Lakh Prize)
-* Geek Room x MasterCard AI Garage Hackathon: Winner
+</details>
 
-## Recognition
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-* Microsoft Learn Student Ambassador
-* Amazon ML Summer School 2025
-* 17K+ followers on LinkedIn
+<br>
 
-## Technical Skills
+<details open>
+<summary>🤝 <b>Connect with me</b></summary>
 
-**Languages**
+<p align = "center">
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/khusbu-rai-37bb5a256/)
+[<img src="https://img.shields.io/badge/leetcode-%23a8a832.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/khusburai28/)
+[<img src="https://img.shields.io/badge/geeksforgeeks-%232c9c10.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://www.geeksforgeeks.org/user/khusburai28/)
+[<img src="https://img.shields.io/badge/codechef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white" />](https://www.codechef.com/users/khusburai28)
+[<img src="https://img.shields.io/badge/codeforces-%231F8ACB.svg?&style=for-the-badge&logo=codeforces&logoColor=white" />](https://codeforces.com/profile/khusburai28)
+[![Visits Badge](https://komarev.com/ghpvc/?username=khusburai28&style=for-the-badge)](https://github.com/khusburai28)
 
-**Development**
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+</details>
 
-## Connect With Me
+---
 
-* LinkedIn: [https://www.linkedin.com/in/khusbu-rai-37bb5a256/](https://www.linkedin.com/in/khusbu-rai-37bb5a256/)
-* GitHub: [@khusburai28](https://github.com/khusburai28)
+<details open>
+ <summary><b>📊 GitHub Stats</b> </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=khusburai28&show_icons=true&line_height=40&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=khusburai28&hide=css,shell&theme=radical">
+</p>
+</details>
+
+<details open>
+ <summary><b>🏆 GitHub Trophies</b></summary>
+<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khusburai28&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+</details>
 
 ---
 
