@@ -62,14 +62,3 @@ I'm a `MERN Stack Developer` & `AI-ML Developer` who loves to solve problems and
 </p>
 </details>
 
-<details open>
- <summary><b>🏆 GitHub Trophies</b></summary>
-<br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khusburai28&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-</details>
-
----
-
-Let's connect and explore the exciting intersections of technology.
