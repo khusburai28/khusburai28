@@ -15,7 +15,7 @@ I'm a `MERN Stack Developer` & `AI-ML Developer` who loves to solve problems and
 * 🏅 `ML Trainee at Amazon MLSS 2025`
 * 👨🏽‍💻 `4 Star` on CodeChef (1869+ rating).
 * 👨🏽‍💻 `Knight` at LeetCode, `Top 2%` (2010+ rating).
-* 👨🏽‍💻 `Institute Rank 11` on GeeksforGeeks for Problem Solving.
+* 👨🏽‍💻 `Rank 11` on GeeksforGeeks for Problem Solving.
 * 👨🏽‍💻 `17K+ followers` on [LinkedIn](https://www.linkedin.com/in/khusbu-rai-37bb5a256/)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
