@@ -10,12 +10,12 @@ I'm a `MERN Stack Developer` & `AI-ML Developer` who loves to solve problems and
   * UST Global India 2024: `National Winner, Rank #1` (7 Lakh Prize)
   * GSMA Open Gateway 2025: `Winner, Rank #2` (3 Lakh Prize)
   * MasterCard AI Garage Hackathon: `Winner`
-  * Google Cloud Hackathon Finalist 2025.
+  * Google Cloud Hackathon Finalist 2025. (Top 15)
 * 🏅 `Microsoft LSA`
 * 🏅 `ML Trainee at Amazon MLSS 2025`
 * 👨🏽‍💻 `4 Star` on CodeChef (1869+ rating).
 * 👨🏽‍💻 `Knight` at LeetCode, `Top 2%` (2010+ rating).
-* 👨🏽‍💻 `Rank 11` on GeeksforGeeks for Problem Solving.
+* 👨🏽‍💻 `Rank 10` on GeeksforGeeks for Problem Solving.
 * 👨🏽‍💻 `17K+ followers` on [LinkedIn](https://www.linkedin.com/in/khusbu-rai-37bb5a256/)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
