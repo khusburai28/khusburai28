@@ -2,19 +2,20 @@
 
 <p align="center"><img align="center" alt="Coding" width="400" src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/media/coding-gif.gif"></p>
 
-I'm a `MERN Stack Developer` & `AI-ML Developer` who loves to solve problems and build innovative solutions.
+I'm a `MERN Stack Developer` & `AI-ML Developer` who loves to solve problems and build innovative solutions. 
 
-* Ex-SDE Intern at `Jio`, `DRDO`
+* Ex-SDE Intern at `Jio`, `DRDO`, `IBM`
 * B.Tech in Computer Science and Engineering with specialization in `AI-ML` from `Guru Gobind Singh Indraprastha University`, New Delhi
 * 🏆 `3x Global Hackathon Winner`
   * UST Global India 2024: `National Winner, Rank #1` (7 Lakh Prize)
   * GSMA Open Gateway 2025: `Winner, Rank #2` (3 Lakh Prize)
-  * Geek Room x MasterCard AI Garage Hackathon: `Winner`
-* 🏅 `Microsoft Learn Student Ambassador`
-* 🏅 `Amazon ML Summer School 2025`
-* 👨🏽‍💻 `4 Star` on CodeChef (1869+ rating)
-* 👨🏽‍💻 `Knight` at LeetCode, `Top 2%` (2010+ rating)
-* 👨🏽‍💻 `Institute Rank 11` on GeeksforGeeks for Problem Solving
+  * MasterCard AI Garage Hackathon: `Winner`
+  * Google Cloud Hackathon Finalist 2025.
+* 🏅 `Microsoft LSA`
+* 🏅 `ML Trainee at Amazon MLSS 2025`
+* 👨🏽‍💻 `4 Star` on CodeChef (1869+ rating).
+* 👨🏽‍💻 `Knight` at LeetCode, `Top 2%` (2010+ rating).
+* 👨🏽‍💻 `Institute Rank 11` on GeeksforGeeks for Problem Solving.
 * 👨🏽‍💻 `17K+ followers` on [LinkedIn](https://www.linkedin.com/in/khusbu-rai-37bb5a256/)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
