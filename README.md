@@ -13,6 +13,7 @@ I'm a `MERN Stack Developer` & `AI-ML Developer` who loves to solve problems and
 * 🏅 `Microsoft LSA`
 * 🏅 `ML Trainee at Amazon MLSS 2025`
 * 👨🏽‍💻 `4 Star` on CodeChef (1869+ rating).
+*  🏅 Secured `Global Rank 1482` out of 13,779 participants in `Meta Hacker` Cup 2025.
 * 👨🏽‍💻 `Knight` at LeetCode, `Top 2%` (2010+ rating).
 * 👨🏽‍💻 `Rank 10` on GeeksforGeeks for Problem Solving.
 * 👨🏽‍💻 `5 Star` Rating on HackerRank.
