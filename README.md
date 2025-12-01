@@ -10,7 +10,7 @@ I'm a `MERN Stack Developer` & `AI-ML Developer` who loves to solve problems and
   * GSMA Open Gateway 2025: `Winner` (3 Lakh Prize).
   * MasterCard AI Garage Hackathon: `Winner`.
   * Google Cloud Hackathon Finalist 2025(Top 15).
-* 🏅 `	β Microsoft LSA`
+* 🏅 `β Microsoft LSA`
 * 🏅 `ML Trainee at Amazon MLSS 2025`
 * 👨🏽‍💻 `4 Star` on CodeChef (1869+ rating).
 *  🏅 Secured `Global Rank 1482` out of 13,779 participants in `Meta Hacker` Cup 2025.
