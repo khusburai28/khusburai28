@@ -5,12 +5,13 @@
 I'm a `MERN Stack Developer` & `AI-ML Developer` who loves to solve problems and build innovative solutions. 
 
 * Upcoming SDE Intern at `Paytm`
-* Ex-SDE Intern at `Jio`, `DRDO`, `IBM`
+* Former SDE Intern at `Jio`, `DRDO`, `IBM`
 * B.Tech in Computer Science and Engineering with `AI-ML` from `GGSIPU`, New Delhi.
   * UST Global India 2024: `National Winner, Rank #1` (7 Lakh Prize).
   * GSMA Open Gateway 2025: `Winner` (3 Lakh Prize).
   * MasterCard AI Garage Hackathon: `Winner`.
   * Google Cloud Hackathon Finalist 2025(Top 15).
+  * National Semifinalist at `Flipkart Grid 7.0 2025`.
 * 🏅 `β Microsoft LSA`
 * 🏅 `ML Trainee at Amazon MLSS 2025`
 * 👨🏽‍💻 `4 Star` on CodeChef (1869+ rating).
