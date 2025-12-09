@@ -18,8 +18,8 @@ I'm a `MERN Stack Developer` & `AI-ML Developer` who loves to solve problems and
 *  🏅 Secured `Global Rank 1482` out of 13,779 participants in `Meta Hacker` Cup 2025.
 * 👨🏽‍💻 `Knight` at LeetCode, `Top 2%` (2010+ rating).
 * 👨🏽‍💻 `Rank 10` on GeeksforGeeks for Problem Solving.
-* 👨🏽‍💻 `5 Star` Rating on HackerRank.
-* 👨🏽‍💻 `17K+ followers` on [LinkedIn](https://www.linkedin.com/in/khusbu-rai-37bb5a256/)
+* 👨🏽‍💻 `6 Star` Rating on HackerRank.
+* 👨🏽‍💻 `18K+ followers` on [LinkedIn](https://www.linkedin.com/in/khusbu-rai-37bb5a256/)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
