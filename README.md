@@ -4,6 +4,7 @@
 
 I'm a `MERN Stack Developer` & `AI-ML Developer` who loves to solve problems and build innovative solutions. 
 
+* Upcoming SDE Intern at `Paytm`
 * Ex-SDE Intern at `Jio`, `DRDO`, `IBM`
 * B.Tech in Computer Science and Engineering with `AI-ML` from `GGSIPU`, New Delhi.
   * UST Global India 2024: `National Winner, Rank #1` (7 Lakh Prize).
