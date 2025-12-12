@@ -2,7 +2,7 @@
 
 <p align="center"><img align="center" alt="Coding" width="400" src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/media/coding-gif.gif"></p>
 
-I'm a `MERN Stack Developer` & `AI-ML Developer` who loves to solve problems and build innovative solutions. 
+I'm a `Software Developer` who loves to solve complex problems and build innovative solutions. 
 
 * Upcoming SDE Intern at `Paytm`
 * Former SDE Intern at `Jio`, `DRDO`, `IBM`
