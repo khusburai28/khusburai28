@@ -59,8 +59,8 @@ I'm a `Software Developer` who loves to solve complex problems and build innovat
  <summary><b>📊 GitHub Stats</b> </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=khusburai28&show_icons=true&line_height=40&theme=radical">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=khusburai28&hide=css,shell&theme=radical">
+  <img src = "https://github-readme-stats-dusky-three-43.vercel.app/api?username=khusburai28&show_icons=true&line_height=40&theme=radical">
+  <img src = "https://github-readme-stats-dusky-three-43.vercel.app/api/top-langs/?username=khusburai28&hide=css,shell&theme=radical">
 </p>
 </details>
 
