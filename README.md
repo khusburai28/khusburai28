@@ -5,6 +5,7 @@
 I'm a `Software Developer` who loves to solve complex problems and build innovative solutions. 
 
 * SDE Intern at `Paytm`
+* Secured `AIR 2` among Top `Engineering School Leaders` in 2026.
 * Former SDE Intern at `Jio`, `DRDO`, `IBM`
 * B.Tech in Computer Science and Engineering with `AI-ML` from `GGSIPU`, New Delhi.
   * UST Global D3CODE India 2024 : `National Winner, Rank #1` (7 Lakh Prize).
