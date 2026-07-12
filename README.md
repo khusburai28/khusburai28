@@ -21,7 +21,7 @@ I'm a `Software Developer` who loves to solve complex problems and build innovat
 * 👨🏽‍💻 `Knight` at LeetCode, `Top 2%` (2010+ rating).
 * 👨🏽‍💻 `Rank 10` on GeeksforGeeks for Problem Solving.
 * 👨🏽‍💻 `6 Star` Rating on HackerRank.
-* 👨🏽‍💻 `24K+ followers` on [LinkedIn](https://www.linkedin.com/in/khusbu-rai-37bb5a256/)
+* 👨🏽‍💻 `25K+ followers` on [LinkedIn](https://www.linkedin.com/in/khusbu-rai-37bb5a256/)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
