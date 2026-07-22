@@ -12,7 +12,8 @@ I'm a `Software Developer` who loves to solve complex problems and build innovat
   * UST Global D3CODE India 2024 : `National Winner, Rank #1` (7 Lakh Prize).
   * GSMA Open Gateway 2025 : `Winner` (3 Lakh Prize).
   * MasterCard AI Garage Hackathon : `Winner`.
-  * Google Cloud Hackathon Finalist 2025 (Top 15) .
+  * Zomato SwiftdidLoad Hackathon Finalist 2026 (Top 10) .
+  * Google Cloud Hackathon Finalist 2025 (Top 10) .
   * National Semifinalist at `Flipkart Grid 7.0 2025`.
 * 🏅 `β Microsoft LSA`
 * 🏅 `ML Trainee at Amazon MLSS 2025`
