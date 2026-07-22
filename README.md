@@ -3,7 +3,7 @@
 <p align="center"><img align="center" alt="Coding" width="400" src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/media/coding-gif.gif"></p>
 
 I'm a `Software Developer` who loves to solve complex problems and build innovative solutions. 
-
+* Software Engineer at `Paytm`
 * SDE Intern at `Paytm`
 * Secured `AIR 2` among Top `Engineering School Leaders` in 2026.
 * Featured : `The Times Of India`, `The Hindu` +15more.
