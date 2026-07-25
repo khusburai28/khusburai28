@@ -1,6 +1,16 @@
-<h1 align="center">Hi <img src="https://github.com/user-attachments/assets/cd8c47ea-dbfd-4762-a99b-f90e8d6ef317" width="25px" height="25px" /> I'm Khusbu Rai! </h1>
-<img width="559" height="319" alt="Screenshot 2026-07-25 at 11 50 29 PM" src="https://github.com/user-attachments/assets/73493c56-8d68-4340-a70d-13b6d6bdcc89" />
+<h1 align="center">
+  Hi 
+  <img src="https://github.com/user-attachments/assets/cd8c47ea-dbfd-4762-a99b-f90e8d6ef317" width="25px" height="25px" /> 
+  I'm Khusbu Rai!
+</h1>
 
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/73493c56-8d68-4340-a70d-13b6d6bdcc89"
+    width="750"
+    alt="Khusbu Rai - Software Engineer"
+  />
+</p>
 
 
 
