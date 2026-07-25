@@ -1,6 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/giphy.webp" width="25px" height="25px" /> I'm Khusbu Rai! </h1>
+<h1 align="center">Hi <img src="https://github.com/user-attachments/assets/cd8c47ea-dbfd-4762-a99b-f90e8d6ef317" width="25px" height="25px" /> I'm Khusbu Rai! </h1>
 
-<p align="center"><img align="center" alt="Coding" width="400" src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/media/coding-gif.gif"></p>
 
 I'm a `Software Developer` who loves to solve complex problems and build innovative solutions. 
 * Software Engineer at `Paytm`
