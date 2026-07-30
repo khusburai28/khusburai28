@@ -22,7 +22,7 @@ I'm a `Software Developer` who loves to solve complex problems and build innovat
 * B.Tech in Computer Science and Engineering with `AI-ML` from `GGSIPU`, New Delhi.
   * UST Global D3CODE India 2024 : `National Winner, Rank #1` (7 Lakh Prize).
   * GSMA Open Gateway 2025 : `Winner` (3 Lakh Prize).
-  * MasterCard AI Garage Hackathon : `Winner`.
+  * MasterCard AI Garage Hackathon : `Winner`. (2 Lakh Prize)
   * Zomato SwiftdidLoad Hackathon Finalist 2026 (Top 10) .
   * Google Cloud Hackathon Finalist 2025 (Top 10) .
   * National Semifinalist at `Flipkart Grid 7.0 2025`.
